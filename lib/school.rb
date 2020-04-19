@@ -12,4 +12,5 @@ class School
         grade => student = [student]
       }
   end
+  @roster
 end
